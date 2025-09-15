@@ -13,7 +13,10 @@ export const Actions = () => {
         "Site de Katsiru-Luve-Nyanzale : 1 groupe de 11 personnes reçoit 2 motos et 1 moulin. 1 groupe de 6 personnes bénéficie de la vente des unités et la messagerie monétaire (transfert d'argent)",
         "105 bénéficiaires, tous ont reçu une formation sur la gestion pratique des AGR avant de recevoir leur aide"
       ],
-      images: []
+      images: [
+        "/lovable-uploads/Paix_et_cohesion_sociale_1.jpg",
+        "/lovable-uploads/Paix_et_cohesion_sociale_2.jpg"
+      ]
     },
     {
       icon: Heart,
