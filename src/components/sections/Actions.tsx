@@ -58,6 +58,10 @@ export const Actions = () => {
         "Activités vivrières : maïs, arachide, manioc"
       ],
       images: [
+        "/lovable-uploads/Developpement_rural_et_securité_alimentaire_1.png",
+        "/lovable-uploads/Developpement_rural_et_securité_alimentaire_2.png",
+        "/lovable-uploads/Developpement_rural_et_securité_alimentaire_3.png",
+        "/lovable-uploads/Developpement_rural_et_securité_alimentaire_4.png",
         "/lovable-uploads/Projet_d_acquaculture_en_cages_flottants_sur_la_baie_de_Mubambiro_1.jpg",
         "/lovable-uploads/Projet_d_acquaculture_en_cages_flottants_sur_la_baie_de_Mubambiro_2.jpg"
       ]
@@ -104,7 +108,10 @@ export const Actions = () => {
         "Lutte contre le changement climatique",
         "Amélioration de la salubrité urbaine"
       ],
-      images: []
+      images: [
+        "/lovable-uploads/Climat_et_environnement_1.jpg",
+        "/lovable-uploads/Climat_et_environnement_2.jpg"
+      ]
     },
     {
       icon: Shield,
@@ -116,7 +123,12 @@ export const Actions = () => {
         "Intervention dans les camps de déplacés",
         "Actions de prévention et protection"
       ],
-      images: []
+      images: [
+        "/lovable-uploads/Activité_de_sensibilisation_1.JPG",
+        "/lovable-uploads/Activité_de_sensibilisation_2.JPG",
+        "/lovable-uploads/Activité_de_sensibilisation_3.JPG",
+        "/lovable-uploads/Activité_de_sensibilisation_4.JPG"
+      ]
     }
   ];
 
